@@ -31,7 +31,7 @@ A RESTful API built using Laravel for managing events, attendees, and bookings.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/event-booking-api.git
+git clone https://github.com/hansraj615/event-booking-api.git
 cd event-booking-api
 
 # 2. Install dependencies
@@ -145,7 +145,7 @@ Relationships:
 ## Author
 
 **Your Name**  
-📫 [GitHub](https://github.com/yourusername) | ✉️ your.email@example.com
+ [GitHub](https://github.com/hansraj615) | hansraj615@gmail.com
 
 ---
 
